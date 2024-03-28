@@ -11,21 +11,24 @@ Explore these resources to stay updated on the latest trends, best practices, an
 
 ---
 
-## Books, tomes and manuscripts
+Certainly! Here are the additional books focusing on testing and quality assurance, along with known hyperlinks:
+
+### Books
+
 Explore a diverse range of books covering software testing, quality assurance, and related topics:
 
-| Hyperlink                                                                                                       | Description                                                                                                           |
-|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| Agile Testing: A Practical Guide for Testers and Agile Teams, Lisa Crispin, Janet Gregory | A practical guide to Agile testing practices, offering insights and strategies for testers and Agile teams. |
-| Continuous Testing for DevOps Professionals: A Practical Guide from Industry Experts, Eran Kinsbruner | A comprehensive guide to implementing continuous testing in DevOps environments, authored by industry experts. |
-| More Agile Testing: Learning Journeys for the Whole Team, Lisa Crispin, Janet Gregory | A follow-up to "Agile Testing," providing additional insights and case studies on Agile testing practices. |
-| Practical Performance Testing: A Start-to-Finish Guide for Testers and Developers, Mark Tomlinson, Ian Molyneaux | A practical guide to performance testing, covering techniques, tools, and best practices for testers and developers. |
-| Selenium Testing Tools Cookbook, Unmesh Gundecha | A cookbook-style guide to Selenium testing, offering practical recipes and techniques for effective test automation. |
-| The Art of Software Testing, Glenford J. Myers | A classic book on software testing principles and techniques, providing foundational knowledge for testers. |
-| The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations, Gene Kim, Jez Humble, Patrick Debois, John Willis | A comprehensive guide to DevOps principles and practices, emphasizing collaboration, automation, and continuous testing. |
-| The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses, Eric Ries | Although not solely about testing, this book discusses principles and strategies relevant to continuous testing and validation in startup environments. |
-| The Testing Practitioner, Rex Black | A comprehensive guide to software testing, covering fundamental principles, techniques, and best practices for testing professionals. |
-| Working Effectively with Legacy Code, Michael Feathers | While not exclusively about testing, this book offers strategies and techniques for testing and refactoring legacy code, a common challenge in software development. |
+| Hyperlink | Description |
+|---|---|
+| [Agile Testing: A Practical Guide for Testers and Agile Teams, Lisa Crispin, Janet Gregory](https://www.amazon.com/Agile-Testing-Practical-Addison-Wesley-Signature/dp/0321534468) | A practical guide to Agile testing practices, offering insights and strategies for testers and Agile teams. |
+| [Continuous Testing for DevOps Professionals: A Practical Guide from Industry Experts, Eran Kinsbruner](https://www.amazon.com/Continuous-Testing-Professionals-Practical-Development-ebook/dp/B07SH4VWSB) | A comprehensive guide to implementing continuous testing in DevOps environments, authored by industry experts. |
+| [More Agile Testing: Learning Journeys for the Whole Team, Lisa Crispin, Janet Gregory](https://www.amazon.com/More-Agile-Testing-Learning-Journeys/dp/0321967054) | A follow-up to "Agile Testing," providing additional insights and case studies on Agile testing practices. |
+| [Practical Performance Testing: A Start-to-Finish Guide for Testers and Developers, Mark Tomlinson, Ian Molyneaux](https://www.amazon.com/Practical-Performance-Testing-Start-Finish/dp/0134191714) | A practical guide to performance testing, covering techniques, tools, and best practices for testers and developers. |
+| [Selenium Testing Tools Cookbook, Unmesh Gundecha](https://www.amazon.com/Selenium-Testing-Tools-Cookbook-WebDriver/dp/1849515743) | A cookbook-style guide to Selenium testing, offering practical recipes and techniques for effective test automation. |
+| [The Art of Software Testing, Glenford J. Myers](https://www.amazon.com/Art-Software-Testing-Glenford-Myers/dp/0471469122) | A classic book on software testing principles and techniques, providing foundational knowledge for testers. |
+| [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations, Gene Kim, Jez Humble, Patrick Debois, John Willis](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002) | A comprehensive guide to DevOps principles and practices, emphasizing collaboration, automation, and continuous testing. |
+| [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses, Eric Ries](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) | Although not solely about testing, this book discusses principles and strategies relevant to continuous testing and validation in startup environments. |
+| [The Testing Practitioner, Rex Black](https://www.amazon.com/Testing-Practitioner-Fourth-Rex-Black/dp/1119415968) | A comprehensive guide to software testing, covering fundamental principles, techniques, and best practices for testing professionals. |
+| [Working Effectively with Legacy Code, Michael Feathers](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) | While not exclusively about testing, this book offers strategies and techniques for testing and refactoring legacy code, a common challenge in software development. |
 
 ---
 
