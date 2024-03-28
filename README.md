@@ -8,6 +8,10 @@ This repository curates a wide range of learning materials, including books, blo
 Explore these resources to stay updated on the latest trends, best practices, and tools in the field of quality assurance. Whether you're a seasoned QA professional or just starting your journey, there's something here for everyone to learn and grow. Happy testing!
 
 ---
+### Agile Testing
+
+Explore essential resources for testing in Agile methodologies, emphasizing principles, practices, and tools:
+
 | Hyperlink                                                                                                       | Description                                                                                                           |
 |-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 | [Agile Testing Quadrants Overview](https://www.agileconnection.com/article/agile-testing-quadrants-overview) | A comprehensive overview of Agile testing quadrants, outlining their significance and application in Agile testing methodologies. |
