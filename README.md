@@ -113,7 +113,7 @@ Programming and academic computer science resources provide foundational knowled
 
 | Hyperlink                                                                                                       | Description                                                                                                           |
 |-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| [Building Dynamic Websites, David J. Malan, CS75.TV, Harvard Extension School](http://cs75.tv/2012/summer/)    | Learn to build dynamic websites with this course by David J. Malan from Harvard Extension School, covering web development fundamentals. |
+| [Building Dynamic Websites, David J. Malan, CS75.TV, Harvard Extension School](https://web.archive.org/web/20210412065100/http://cs75.tv/2012/summer/)    | Learn to build dynamic websites with this course by David J. Malan from Harvard Extension School, covering web development fundamentals. |
 | [Computation Theory, Shai Simonson, Coderisland](https://www.youtube.com/playlist?list=PL601FC994BDD963E4)   | Delve into computation theory with this series of lectures by Shai Simonson, exploring the theoretical foundations of computer science. |
 | [CS2: Data Structures and Algorithms, Richard Buckland, University of New South Wales](https://www.youtube.com/playlist?list=PLE621E25B3BF8B9D1) | Gain insights into data structures and algorithms with this course by Richard Buckland from the University of New South Wales. |
 | [Deep Learning, Nando de Freitas, University of Oxford](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu) | Explore deep learning concepts through lectures by Nando de Freitas, part of the University of Oxford's machine learning course. |
@@ -126,11 +126,10 @@ Programming and academic computer science resources provide foundational knowled
 | [Into to C on Windows, Handmade Hero](https://www.youtube.com/playlist?list=PLEMXAbCVnmY6RverunClc_DMLNDd3ASRp) | Explore C programming for Windows as part of the Handmade Hero project, offering a comprehensive tutorial series. |
 | [Introduction to Computer Programming in Python, Fall 2016, MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA) | MIT OpenCourseWare's introduction to computer programming using Python, providing fundamental concepts and practical skills. |
 ---
+
 ### Rapid Testing, Exploratory Testing, and Session-Based Testing
 
 Explore resources and insights on conducting rapid testing, exploratory testing, and session-based testing methodologies, focusing on flexibility, adaptability, and efficient testing practices:
-
-Here are the links added to the table:
 
 | Hyperlink                                                                                                       | Description                                                                                                           |
 |-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
@@ -146,6 +145,7 @@ Here are the links added to the table:
 | [Session-Based Testing in Practice, StickyMinds](https://www.stickyminds.com/article/session-based-testing-practice) | Learn how to implement session-based testing practices in real-world projects, including tips for planning, executing, and reporting session-based testing sessions effectively. |
 
 This section provides valuable resources and guidance for testers looking to incorporate rapid testing, exploratory testing, and session-based testing methodologies into their testing approach, enabling them to adapt to evolving project requirements and deliver high-quality software efficiently.
+
 ---
 ### Risk-Based Approach for Testing
 
