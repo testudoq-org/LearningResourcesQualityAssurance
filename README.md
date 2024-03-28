@@ -10,9 +10,6 @@ This repository curates a wide range of learning materials, including books, blo
 Explore these resources to stay updated on the latest trends, best practices, and tools in the field of quality assurance. Whether you're a seasoned QA professional or just starting your journey, there's something here for everyone to learn and grow. Happy testing!
 
 ---
-
-Certainly! Here are the additional books focusing on testing and quality assurance, along with known hyperlinks:
-
 ### Books
 
 Explore a diverse range of books covering software testing, quality assurance, and related topics:
@@ -52,8 +49,6 @@ Discover insightful blogs covering various aspects of software testing, quality 
 | Tricentis | Tricentis blog, providing articles, case studies, and insights on modern software testing practices, test automation, and continuous testing. |
 
 ---
-Certainly! Here's a list of Cheat Sheets and Quick Reference Guides along with known links, presented in alphabetical order:
-
 ### Cheat Sheets and Quick Reference Guides
 
 | Hyperlink | Description |
@@ -87,18 +82,17 @@ Explore essential resources for testing in Agile methodologies, emphasizing prin
 
 | Hyperlink                                                                                                       | Description                                                                                                           |
 |-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| Agile Testing Quadrants Overview | A comprehensive overview of Agile testing quadrants, outlining their significance and application in Agile testing methodologies. |
-| Introduction to Agile Testing, TechWell | An introductory guide to Agile testing, covering key concepts, principles, and best practices for testing in Agile environments. |
-| Testing in Agile: An Overview, ThoughtWorks | An overview of testing in Agile development, highlighting the role of testing in Agile processes and strategies for effective testing. |
-| The Agile Testing Mindset, TestRail | Explore the Agile testing mindset, focusing on the shift in mindset required for successful testing in Agile projects. |
-| User Story Testing in Agile, TestRail | Learn about user story testing in Agile methodologies, emphasizing the importance of testing individual user stories for quality assurance. |
-| Agile Testing Best Practices, TechWell | Discover Agile testing best practices, including strategies for integrating testing into Agile development cycles effectively. |
-| Agile Testing Techniques, Guru99 | Explore various Agile testing techniques, such as exploratory testing, acceptance testing, and test-driven development (TDD). |
-| Agile Testing Challenges and Solutions, TechWell | Gain insights into common challenges faced in Agile testing and explore practical solutions to overcome these challenges effectively. |
-| Agile Testing Metrics, Guru99 | Learn about Agile testing metrics used to measure the effectiveness of testing efforts in Agile projects and improve overall quality. |
-| Agile Testing Automation Strategies, TechWell | Discover effective strategies for implementing test automation in Agile projects, emphasizing the importance of continuous testing and automation. |
-| Agile Testing Case Studies, Agile Testing Days | Explore real-world Agile testing case studies, showcasing successful Agile testing implementations and lessons learned from Agile testing projects. |
-
+| [Agile Testing Quadrants Overview](#) | A comprehensive overview of Agile testing quadrants, outlining their significance and application in Agile testing methodologies. |
+| [Introduction to Agile Testing, TechWell](#) | An introductory guide to Agile testing, covering key concepts, principles, and best practices for testing in Agile environments. |
+| [Testing in Agile: An Overview, ThoughtWorks](#) | An overview of testing in Agile development, highlighting the role of testing in Agile processes and strategies for effective testing. |
+| [The Agile Testing Mindset, TestRail](#) | Explore the Agile testing mindset, focusing on the shift in mindset required for successful testing in Agile projects. |
+| [User Story Testing in Agile, TestRail](#) | Learn about user story testing in Agile methodologies, emphasizing the importance of testing individual user stories for quality assurance. |
+| [Agile Testing Best Practices, TechWell](#) | Discover Agile testing best practices, including strategies for integrating testing into Agile development cycles effectively. |
+| [Agile Testing Techniques, Guru99](#) | Explore various Agile testing techniques, such as exploratory testing, acceptance testing, and test-driven development (TDD). |
+| [Agile Testing Challenges and Solutions, TechWell](#) | Gain insights into common challenges faced in Agile testing and explore practical solutions to overcome these challenges effectively. |
+| [Agile Testing Metrics, Guru99](#) | Learn about Agile testing metrics used to measure the effectiveness of testing efforts in Agile projects and improve overall quality. |
+| [Agile Testing Automation Strategies, TechWell](#) | Discover effective strategies for implementing test automation in Agile projects, emphasizing the importance of continuous testing and automation. |
+| [Agile Testing Case Studies, Agile Testing Days](#) | Explore real-world Agile testing case studies, showcasing successful Agile testing implementations and lessons learned from Agile testing projects. |
 ---
 ### Programming and Academic Computer Science
 
@@ -148,8 +142,7 @@ Security and penetration testing are critical aspects of ensuring the robustness
 
 ---
 
-
-//TODO
+## //TODO
 
     Online Courses
     Webinars and Video Tutorials
