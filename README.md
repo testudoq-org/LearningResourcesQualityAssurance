@@ -6,7 +6,24 @@ Welcome to the Learning Resources for Quality Assurance GitHub repository! Here,
 This repository curates a wide range of learning materials, including books, blogs, podcasts, online courses, webinars, community forums, open-source projects, and certification programs, all focused on quality assurance and software testing.
 
 Explore these resources to stay updated on the latest trends, best practices, and tools in the field of quality assurance. Whether you're a seasoned QA professional or just starting your journey, there's something here for everyone to learn and grow. Happy testing!
+---
+### Agile Testing
 
+Explore essential resources for testing in Agile methodologies, emphasizing principles, practices, and tools:
+
+| Hyperlink                                                                                                       | Description                                                                                                           |
+|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| [Agile Testing Quadrants Overview](#) | A comprehensive overview of Agile testing quadrants, outlining their significance and application in Agile testing methodologies. |
+| [Introduction to Agile Testing, TechWell](#) | An introductory guide to Agile testing, covering key concepts, principles, and best practices for testing in Agile environments. |
+| [Testing in Agile: An Overview, ThoughtWorks](#) | An overview of testing in Agile development, highlighting the role of testing in Agile processes and strategies for effective testing. |
+| [The Agile Testing Mindset, TestRail](#) | Explore the Agile testing mindset, focusing on the shift in mindset required for successful testing in Agile projects. |
+| [User Story Testing in Agile, TestRail](#) | Learn about user story testing in Agile methodologies, emphasizing the importance of testing individual user stories for quality assurance. |
+| [Agile Testing Best Practices, TechWell](#) | Discover Agile testing best practices, including strategies for integrating testing into Agile development cycles effectively. |
+| [Agile Testing Techniques, Guru99](#) | Explore various Agile testing techniques, such as exploratory testing, acceptance testing, and test-driven development (TDD). |
+| [Agile Testing Challenges and Solutions, TechWell](#) | Gain insights into common challenges faced in Agile testing and explore practical solutions to overcome these challenges effectively. |
+| [Agile Testing Metrics, Guru99](#) | Learn about Agile testing metrics used to measure the effectiveness of testing efforts in Agile projects and improve overall quality. |
+| [Agile Testing Automation Strategies, TechWell](#) | Discover effective strategies for implementing test automation in Agile projects, emphasizing the importance of continuous testing and automation. |
+| [Agile Testing Case Studies, Agile Testing Days](#) | Explore real-world Agile testing case studies, showcasing successful Agile testing implementations and lessons learned from Agile testing projects. |
 ---
 ### Books
 
@@ -55,39 +72,35 @@ Discover insightful blogs covering various aspects of software testing, quality 
 | [Web Application Testing Cheat Sheet](https://www.owasp.org/www-pdf-archive/Web_Application_Testing_Cheat_Sheet.pdf) | A practical guide outlining steps and techniques for testing web applications for security vulnerabilities. |
 
 These cheat sheets and quick reference guides offer valuable shortcuts and reminders for common tasks and concepts in software testing and development.
-
 ---
-
-## Podcasts
-- [Podcast 1]
-- [Podcast 2]
-- ...
-
----
-
 ## Magazines and Periodicals
 - [Magazine 1]
 - [Magazine 2]
 - ...
-
 ---
-### Testing in Agile
+### Non-Functional Testing
 
-Explore essential resources for testing in Agile methodologies, emphasizing principles, practices, and tools:
+Explore resources and insights on non-functional testing, focusing on evaluating system attributes beyond functional requirements:
 
 | Hyperlink                                                                                                       | Description                                                                                                           |
 |-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| [Agile Testing Quadrants Overview](#) | A comprehensive overview of Agile testing quadrants, outlining their significance and application in Agile testing methodologies. |
-| [Introduction to Agile Testing, TechWell](#) | An introductory guide to Agile testing, covering key concepts, principles, and best practices for testing in Agile environments. |
-| [Testing in Agile: An Overview, ThoughtWorks](#) | An overview of testing in Agile development, highlighting the role of testing in Agile processes and strategies for effective testing. |
-| [The Agile Testing Mindset, TestRail](#) | Explore the Agile testing mindset, focusing on the shift in mindset required for successful testing in Agile projects. |
-| [User Story Testing in Agile, TestRail](#) | Learn about user story testing in Agile methodologies, emphasizing the importance of testing individual user stories for quality assurance. |
-| [Agile Testing Best Practices, TechWell](#) | Discover Agile testing best practices, including strategies for integrating testing into Agile development cycles effectively. |
-| [Agile Testing Techniques, Guru99](#) | Explore various Agile testing techniques, such as exploratory testing, acceptance testing, and test-driven development (TDD). |
-| [Agile Testing Challenges and Solutions, TechWell](#) | Gain insights into common challenges faced in Agile testing and explore practical solutions to overcome these challenges effectively. |
-| [Agile Testing Metrics, Guru99](#) | Learn about Agile testing metrics used to measure the effectiveness of testing efforts in Agile projects and improve overall quality. |
-| [Agile Testing Automation Strategies, TechWell](#) | Discover effective strategies for implementing test automation in Agile projects, emphasizing the importance of continuous testing and automation. |
-| [Agile Testing Case Studies, Agile Testing Days](#) | Explore real-world Agile testing case studies, showcasing successful Agile testing implementations and lessons learned from Agile testing projects. |
+| [Non-Functional Testing Overview, Guru99](#) | An overview of non-functional testing, covering its purpose, types, and significance in ensuring software quality and performance. |
+| [Introduction to Non-Functional Testing, TestMatick](#) | An introductory guide to non-functional testing, explaining key concepts, common types, and best practices for conducting non-functional tests effectively. |
+| [Non-Functional Testing Strategies, EuroSTAR Huddle](#) | Explore various strategies and approaches for planning and executing non-functional testing activities, focusing on performance, security, usability, and other critical attributes. |
+| [Performance Testing vs. Load Testing vs. Stress Testing, TestRail](#) | Understand the distinctions between performance testing, load testing, and stress testing, including their objectives, methodologies, and key considerations for implementation. |
+| [Security Testing Explained, Ministry of Testing](#) | Learn about the importance of security testing in evaluating system security vulnerabilities, potential risks, and mitigation strategies to safeguard against cyber threats. |
+| [Usability Testing: What It Is and How to Do It, Usability.gov](#) | An introduction to usability testing, providing guidance on assessing user experience, interface design, and accessibility to enhance overall product usability and satisfaction. |
+| [Scalability Testing: Definition, Strategies, and Best Practices, Apica](#) | Discover the significance of scalability testing in assessing a system's ability to handle increasing workload demands, along with strategies and best practices for conducting effective scalability tests. |
+| [Compatibility Testing Explained, TechTarget](#) | An overview of compatibility testing, focusing on ensuring application compatibility across different platforms, devices, browsers, and operating systems to deliver a consistent user experience. |
+| [Reliability Testing: Definition, Techniques, and Tools, TestSigma](#) | Learn about reliability testing techniques and tools used to assess system stability, fault tolerance, and resilience under varying conditions, aiming to prevent system failures and downtime. |
+| [Non-Functional Testing Automation, QA Mentor](#) | Explore automation strategies and tools for non-functional testing, including performance testing automation, security testing automation, and scalability testing automation, to streamline testing processes and improve efficiency. |
+
+This section offers valuable resources and guidance for testers and quality assurance professionals seeking to address non-functional aspects of software quality, ensuring optimal system performance, security, usability, scalability, and reliability across diverse application environments and usage scenarios.
+---
+## Podcasts
+- [Podcast 1]
+- [Podcast 2]
+- ...
 ---
 ### Programming and Academic Computer Science
 
@@ -107,7 +120,25 @@ Programming and academic computer science resources provide foundational knowled
 | [Unix Tools, Markus Kuhn, University of Cambridge](http://www.cl.cam.ac.uk/teaching/1415/UnixTools/)        | Learn essential Unix utilities and commands with this course by Markus Kuhn from the University of Cambridge. |
 | [Into to C on Windows, Handmade Hero](https://www.youtube.com/playlist?list=PLEMXAbCVnmY6RverunClc_DMLNDd3ASRp) | Explore C programming for Windows as part of the Handmade Hero project, offering a comprehensive tutorial series. |
 | [Introduction to Computer Programming in Python, Fall 2016, MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA) | MIT OpenCourseWare's introduction to computer programming using Python, providing fundamental concepts and practical skills. |
+---
+### Rapid Testing, Exploratory Testing, and Session-Based Testing
 
+Explore resources and insights on conducting rapid testing, exploratory testing, and session-based testing methodologies, focusing on flexibility, adaptability, and efficient testing practices:
+
+| Hyperlink                                                                                                       | Description                                                                                                           |
+|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| [Exploratory Testing: What It Is and How to Use It, Ministry of Testing](#) | An overview of exploratory testing, including its definition, benefits, and practical tips for conducting exploratory testing sessions effectively. |
+| [Rapid Software Testing, Michael Bolton](#) | Learn about the principles and techniques of rapid software testing, emphasizing the importance of critical thinking, risk analysis, and adaptable testing strategies. |
+| [Session-Based Testing Explained, PractiTest](#) | An introduction to session-based testing (SBT), covering its principles, process, and advantages for optimizing testing efforts in dynamic environments. |
+| [Exploratory Testing in Agile, AgileConnection](#) | Explore the role of exploratory testing in Agile development methodologies, highlighting its synergy with Agile principles and practices for rapid feedback and adaptation. |
+| [Effective Exploratory Testing, TestRail](#) | Discover effective strategies and best practices for conducting exploratory testing sessions, including techniques for generating test ideas, managing exploration, and documenting findings. |
+| [Rapid Testing Techniques, Software Testing Help](#) | Learn about various rapid testing techniques and approaches, enabling testers to quickly and efficiently uncover defects and validate software functionality. |
+| [Session-Based Test Management: An Overview, TechTarget](#) | An overview of session-based test management (SBTM), providing insights into its methodology, benefits, and implementation strategies for structured exploratory testing. |
+| [Exploratory Testing vs. Scripted Testing, TestRail](#) | Understand the differences between exploratory testing and scripted testing approaches, highlighting the advantages and limitations of each methodology in different contexts. |
+| [Rapid Software Testing Applied, Michael Bolton](#) | Delve into practical applications of rapid software testing principles, with case studies, examples, and exercises designed to enhance testers' rapid testing skills and mindset. |
+| [Session-Based Testing in Practice, StickyMinds](#) | Learn how to implement session-based testing practices in real-world projects, including tips for planning, executing, and reporting session-based testing sessions effectively. |
+
+This section provides valuable resources and guidance for testers looking to incorporate rapid testing, exploratory testing, and session-based testing methodologies into their testing approach, enabling them to adapt to evolving project requirements and deliver high-quality software efficiently.
 ---
 ### Risk-Based Approach for Testing
 
