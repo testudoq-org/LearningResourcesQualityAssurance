@@ -6,6 +6,7 @@ Welcome to the Learning Resources for Quality Assurance GitHub repository! Here,
 This repository curates a wide range of learning materials, including books, blogs, podcasts, online courses, webinars, community forums, open-source projects, and certification programs, all focused on quality assurance and software testing.
 
 Explore these resources to stay updated on the latest trends, best practices, and tools in the field of quality assurance. Whether you're a seasoned QA professional or just starting your journey, there's something here for everyone to learn and grow. Happy testing!
+
 ---
 | Hyperlink                                                                                                       | Description                                                                                                           |
 |-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
