@@ -1,5 +1,3 @@
-Certainly, here's the outline with all the sections and subtitles:
-
 ## Learning Resources for Quality Assurance
 
 Welcome to the Learning Resources for Quality Assurance GitHub repository! Here, you'll find a comprehensive collection of resources to enhance your skills and knowledge in software testing and quality assurance.
