@@ -75,12 +75,32 @@ Certainly! Here are the relevant links added to the table:
 | [Web Application Testing Cheat Sheet](https://www.owasp.org/www-pdf-archive/Web_Application_Testing_Cheat_Sheet.pdf) | A practical guide outlining steps and techniques for testing web applications for security vulnerabilities. |
 
 These cheat sheets and quick reference guides offer valuable shortcuts and reminders for common tasks and concepts in software testing and development.
+
 ---
+
+## Frameworks and tools
+
+A list of the most popular testing frameworks and tools, with links to their information:
+
+| Hyperlink                                                                                                       | Description                                                                                                           |
+|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| [Playwright Documentation](https://playwright.dev/)                                                              | Official documentation providing comprehensive guides, API references, and examples for getting started with Playwright. |
+| [Playwright GitHub Repository](https://github.com/microsoft/playwright)                                           | Access the source code, issues, and contributions on Playwright's GitHub repository.                                  |
+| [CodeceptJS Official Website](https://codecept.io/)                                                               | Explore CodeceptJS documentation, tutorials, and guides for learning how to write tests with CodeceptJS.              |
+| [CodeceptJS GitHub Repository](https://github.com/codecept-js/CodeceptJS)                                         | Access the source code, issues, and community contributions on CodeceptJS's GitHub repository.                        |
+| [Cypress Documentation](https://docs.cypress.io/)                                                                  | Official documentation offering guides, API references, and examples for understanding and using Cypress for test automation. |
+| [Cypress GitHub Repository](https://github.com/cypress-io/cypress)                                                | Access the source code, issues, and contributions on Cypress's GitHub repository.                                      |
+| TOSCA Training Materials (Available through Tricentis's official website)                                           | TOSCA training materials and documentation are typically available through Tricentis's official website.                |
+
+---
+
 ## Magazines and Periodicals
 - [Magazine 1]
 - [Magazine 2]
 - ...
+
 ---
+
 ### Non-Functional Testing
 
 Explore resources and insights on non-functional testing, focusing on evaluating system attributes beyond functional requirements:
@@ -101,11 +121,13 @@ Explore resources and insights on non-functional testing, focusing on evaluating
 These resources provide valuable insights and guidance for testers and quality assurance professionals aiming to address non-functional aspects of software quality effectively.
 
 This section offers valuable resources and guidance for testers and quality assurance professionals seeking to address non-functional aspects of software quality, ensuring optimal system performance, security, usability, scalability, and reliability across diverse application environments and usage scenarios.
+
 ---
 ## Podcasts
 - [Podcast 1]
 - [Podcast 2]
 - ...
+
 ---
 ### Programming and Academic Computer Science
 
