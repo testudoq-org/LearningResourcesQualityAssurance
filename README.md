@@ -17,14 +17,15 @@ Explore essential resources for testing in Agile methodologies, emphasizing prin
 | [Agile Testing Quadrants Overview](https://www.agileconnection.com/presentation/new-agile-testing-quadrants-bringing-skilled-testers-and-developers-together) | A comprehensive overview of Agile testing quadrants, outlining their significance and application in Agile testing methodologies. |
 | [Introduction to Agile Testing, TechWell](https://www.techwell.com/search/techwell-insights?search_api_views_fulltext=Agile+Testing) | An introductory guide to Agile testing, covering key concepts, principles, and best practices for testing in Agile environments. |
 | [Testing in Agile: An Overview, ThoughtWorks](https://www.thoughtworks.com/search?q=agile%20testing) | An overview of testing in Agile development, highlighting the role of testing in Agile processes and strategies for effective testing. |
-| [The Agile Testing Mindset, TestRail](https://blog.gurock.com/agile-testing-mindset/) | Explore the Agile testing mindset, focusing on the shift in mindset required for successful testing in Agile projects. |
-| [User Story Testing in Agile, TestRail](https://blog.gurock.com/user-story-testing-agile/) | Learn about user story testing in Agile methodologies, emphasizing the importance of testing individual user stories for quality assurance. |
+| [The Agile Testing Mindset, TestRail](https://www.testrail.com/blog/?_blog_search=agile+testing+mindset) | Explore the Agile testing mindset, focusing on the shift in mindset required for successful testing in Agile projects. |
+| [User Story Testing in Agile, TestRail](https://www.testrail.com/blog/?_blog_search=user+story+testing+agile) | Learn about user story testing in Agile methodologies, emphasizing the importance of testing individual user stories for quality assurance. |
 | [Agile Testing Best Practices, TechWell](https://www.techwell.com/search/techwell-insights?search_api_views_fulltext=Test+Best+Practices) | Discover Agile testing best practices, including strategies for integrating testing into Agile development cycles effectively. |
 | [Agile Testing Techniques, Guru99](https://www.guru99.com/agile-testing.html) | Explore various Agile testing techniques, such as exploratory testing, acceptance testing, and test-driven development (TDD). |
 | [Agile Testing Challenges and Solutions, TechWell](https://www.techwell.com/techwell-insights/2016/12/agile-testing-challenges-and-solutions) | Gain insights into common challenges faced in Agile testing and explore practical solutions to overcome these challenges effectively. |
 | [Agile Testing Metrics, Guru99](https://www.guru99.com/agile-testing-metrics-kpi.html) | Learn about Agile testing metrics used to measure the effectiveness of testing efforts in Agile projects and improve overall quality. |
 | [Agile Testing Automation Strategies, TechWell](https://www.techwell.com/search/techwell-insights?search_api_views_fulltext=Agile+Testing) | Discover effective strategies for implementing test automation in Agile projects, emphasizing the importance of continuous testing and automation. |
 | [Agile Testing Case Studies, Agile Testing Days](https://www.youtube.com/c/Agiletestingdaysconf) | Explore real-world Agile testing case studies, showcasing successful Agile testing implementations and lessons learned from Agile testing projects. |
+
 ---
 ### Books
 
