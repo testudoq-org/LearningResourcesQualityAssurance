@@ -218,6 +218,25 @@ Security and penetration testing are critical aspects of ensuring the robustness
 
 ---
 
+# Online Courses for Testing and Automation
+
+Online courses for testing and automation are critical aspects of ensuring the robustness and integrity of software systems and applications. This curated list offers various resources covering foundational concepts and advanced techniques in security testing:
+
+| Course Name | Hyperlink | Description |
+|-------------|-----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| Our Local Playwright Python Learning Tutorial | [playwright-python-learning/README.md](playwright-python-learning/README.md) | This course presentation covers both basic and advanced topics for learning Playwright with Python. |
+| Security and Hacking Courses: | | |
+| Cross-Site Scripting (XSS) Tutorials | [Draps TV](https://www.youtube.com/watch?v=M_nIIcKTxGk&list=PL1A2CSdiySGIRec2pvDMkYNi3iRO89Zot) | A series of video tutorials focused on Cross-Site Scripting (XSS) attacks, providing insights into detection and mitigation techniques. |
+| Web Security Academy | [PortSwigger](https://portswigger.net/web-security) | A comprehensive and interactive learning platform for web security, covering injection attacks, authentication flaws, and secure development practices. |
+| Hacker101 | [Hacker101](https://hacker101.com/) | Free online courses and resources focused on web application security, including common vulnerabilities and exploitation techniques. |
+| OWASP Top 10 | [OWASP](https://owasp.org/Top10/) | A project outlining the latest critical web application security risks, providing valuable insights for developers and security professionals. |
+| Secure Coding Practices | [CERT Coordination Center](https://www.securecoding.cert.org/) | Guidelines and best practices for secure software development, covering common vulnerabilities and secure design principles. |
+| Web Application Hacker's Handbook | [Amazon](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470) | A highly regarded book by Stuttard and Pinto, covering web application security in depth, with practical insights into vulnerability identification and exploitation. |
+
+These resources offer a blend of course presentations, video tutorials, and comprehensive reading materials to enhance your understanding of testing and automation, with a strong focus on security. Happy learning!
+
+---
+
 ## //TODO
 
     Online Courses
@@ -229,4 +248,5 @@ Security and penetration testing are critical aspects of ensuring the robustness
     Industry Reports and Surveys
     Online Documentation and Manuals
 
-Feel free to explore each section to discover valuable resources for your journey in quality assurance and software testing! OR add more links or better yet go fork yourself and add your own.
+---
+Feel free to explore each section and fork this repository to add your own valuable resources for quality assurance and software testing. Please ensure that the hyperlinks and descriptions remain accurate and up-to-date, creating a dynamic and ever-growing collection of knowledge. This table format provides a clear and organized overview, making it easier for fellow testers and QA enthusiasts to discover and contribute valuable resources.
